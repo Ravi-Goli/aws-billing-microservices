@@ -1,5 +1,7 @@
 # Cloud-Native Billing Microservices (AWS)
 
+[![Java CI](https://github.com/Ravi-Goli/aws-billing-microservices/actions/workflows/build.yml/badge.svg)](https://github.com/Ravi-Goli/aws-billing-microservices/actions/workflows/build.yml)
+
 ## Tech Stack
 Java, Spring Boot, AWS Lambda, API Gateway, DynamoDB, SNS, SQS, Docker
 
